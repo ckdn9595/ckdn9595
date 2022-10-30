@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdn9595&show_icons=true&theme=dark)</br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdn9595)](https://solved.ac/ckdn9595)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdn9595&theme=radical)
 <!--
 **ckdn9595/ckdn9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
