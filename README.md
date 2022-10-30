@@ -1,6 +1,6 @@
 |  💬Top Langs |  🤔Algorithm | 🌱GitHub stats |
 |--|--|--|
-|  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdn9595&layout=compact&theme=radical)|   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdn9595)](https://solved.ac/ckdn9595) | ![jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdn9595&show_icons=true&theme=dark) |
+|  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdn9595&layout=compact&theme=radical)|   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdn9595)](https://solved.ac/ckdn9595) | ![jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdn9595&show_icons=true&theme=dark&count_private=true) |
 
 <!--
 **ckdn9595/ckdn9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
